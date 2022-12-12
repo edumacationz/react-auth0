@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "auth0-js": "^9.12.2",
     "auth0-lock": "^11.21.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "express-jwt-authz": "^2.3.1",
     "jwks-rsa": "^1.6.2",
